@@ -3,7 +3,6 @@ import PokemonCard from "./PokemonCard"
 import "./PokeList.css"
 
 
-
 function Pokelist () {
 
     const [allPokemons, setAllPokemons] = useState([])
