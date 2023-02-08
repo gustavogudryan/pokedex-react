@@ -1,5 +1,5 @@
-### `POKÉDEX`
+## `POKÉDEX`
 
-# Em fase de desenvolvimento.
-# In development
+### Em fase de desenvolvimento.
+### In development
 
