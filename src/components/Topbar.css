@@ -1,0 +1,54 @@
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    padding: 30px;
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(42deg, #fff 35%, #cdbbf5 35.7%, #f2cbf6);
+}
+
+.title_left{
+    display: flex;
+    align-items: center;
+    width: 30%;
+}
+
+.title_left > p{
+    font-size: 30px;
+    font-weight: 700px;
+    color: #f0a921;
+}
+
+.caught_pokemon{
+    display: flex;
+    align-items: center;
+}
+
+.caught{
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    color: #504a5a;
+    margin-right: 20px;
+}
+
+.title_right{
+    display: flex;
+    width: 30%;
+    justify-content: end;
+    align-items: center;
+}
+
+.title_right > p {
+    color: #504a5a;
+    font-size: 25px;
+    font-weight: 500;
+    margin-right: 12px
+}
+
+
+
+
